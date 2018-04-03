@@ -1,4 +1,5 @@
 # Modeling-Semantic-Plausibility-NAACL18
 
-* Data = {Ready}
-* Code = {Up soon}
+* Paper = {https://arxiv.org/pdf/1804.00619.pdf}
+* Data  = {Ready}
+* Code  = {Up soon}
