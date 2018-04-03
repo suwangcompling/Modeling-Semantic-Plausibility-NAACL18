@@ -1,2 +1,4 @@
 # Modeling-Semantic-Plausibility-NAACL18
-Data and all
+
+Data = {Ready}
+Code = {Up soon}
