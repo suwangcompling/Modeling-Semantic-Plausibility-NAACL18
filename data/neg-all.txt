@@ -452,7 +452,7 @@ man lengthen rock
 ant lengthen dough
 woman lengthen knife
 oil lengthen cord
-student length house
+student lengthen house
 dog lick air
 tree lick frosting
 cat lick cloud
@@ -980,7 +980,7 @@ worm drag turtle
 lion drag skyscraper
 monkey drain ocean
 girl drain ocean
-spetula drain sand
+spatula drain sand
 clown drain air
 dentist drain rock
 lion draw phone
@@ -1030,7 +1030,7 @@ shirt erase house
 scissors erase lake
 rabbit erect building
 girl erect water
-spetula erect horse
+spatula erect horse
 rabbit erect skyscraper
 man erect wind
 pillow etch pebbles
@@ -1222,7 +1222,7 @@ man lengthen pebbles
 worm lengthen dough
 clown lengthen knife
 oil lengthen brick
-dentist length house
+dentist lengthen house
 dog lick smoke
 bush lick frosting
 bear lick cloud

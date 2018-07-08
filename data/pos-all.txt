@@ -30,7 +30,7 @@ arms bend flowers
 spoon bend paper
 wolf bite tongue
 cat bite rabbit
-ant bit man
+ant bite man
 baker bite cake
 flea bite dog
 television break fridge
@@ -173,7 +173,7 @@ rock crush box
 man crush child
 child crush bug
 dog crush plant
-sisewalk curb wheels
+sidewalk curb wheels
 step curb car
 rock curb bike
 house curb train
@@ -800,7 +800,7 @@ knife bend spatula
 policeman bend lamp
 horse bite worm
 cat bite turtle
-bear bit girl
+bear bite girl
 clown bite chair
 wolf bite nail
 plane break skyscraper
@@ -833,7 +833,7 @@ bike capsize cup
 spatula capsize pan
 dentist capsize ship
 girl capsize turtle
-monkey carry grap
+monkey carry grape
 dog carry scissors
 cup carry water
 boat carry mud
@@ -964,7 +964,7 @@ rain dampen girl
 water dampen beans
 oil dampen trash
 lion destroy house
-cat destroy shir
+cat destroy shirt
 bear destroy cup
 stove destroy apple
 scissors destroy shirt
